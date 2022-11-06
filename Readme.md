@@ -7,5 +7,5 @@ I am a software / devops engineer. Since 2018, it has been a great journey to be
 
 
 # Github Stat
-                 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMyungyun&langs_count=3&&theme=synthwave&&hide=html,css,vue,ejs)](https://github.com/anuraghazra/github-readme-stats)
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMyungyun&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
