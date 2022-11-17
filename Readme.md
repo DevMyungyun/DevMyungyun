@@ -1,7 +1,7 @@
 # Hello! I'm Joseph Cho (조명연) 👨‍💻✌️
 I am a software / devops engineer. Since 2018, I have been on a great journey to be a part of the IT industry. I love to build, test, deploy, monitor, and automate applications. I would like to interact with other developers and engineers around the world.
 * 🛞 I am a big fan of Kubernetes.
-* 🔥 passionate about learning mordern IT technologies.
+* 🔥 Passionate about learning mordern IT technologies.
 * 💩 One of my goals in life is to remove toils with automation tools.
 * ⌨️ I would love to build an application that can help people.
 
